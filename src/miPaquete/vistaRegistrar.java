@@ -565,7 +565,7 @@ public class vistaRegistrar extends javax.swing.JFrame {
     
     
     
-    public String marcas[]= {"Selecciona...","Ford","Chevrolet", "Nissan", "Acura", "Alfa Romeo", "ASTON MARTIN", "Audi",
+    public String marcas[]= {"Selecciona...","Ford","Chevrolet", "Nissan", "Acura", "Alfa Romeo", "Aston Martin", "Audi",
                             "BAIC", "Bentley", "BMW", "Cadillac", "Chrysler", "DODGE", "Ferrari", "Fiat", "GMC", "Honda", "Hyundai", "Infiniti",
                             "Jaguar", "JAC", "Jeep", "KIA", "Mazda", "Mercedes Benz", "Mitsubishi", "Peugeot", "RAM", "Renault", "SEAT", "Subaru",
                             "Suzuki", "Tesla", "Toyota", "Volkswagen", "Volvo"};
