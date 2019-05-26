@@ -336,6 +336,7 @@ public class vistaRegistrar extends javax.swing.JFrame {
                 FileWriter writer = new FileWriter("miArchivo2.txt");
                 writer.write(filecontent);
                 writer.close();;
+                reader.close();
             
         } catch (IOException ex) {
             Logger.getLogger(vistaRegistrar.class.getName()).log(Level.SEVERE, null, ex);
